@@ -1,0 +1,12 @@
+.DS_Store
+*.ctxt
+*.class
+*.jar
+doc/
+*.rar
+*.jar
+*.zip
+*.java~
+*.~java
+*.greenfoot
+/images
